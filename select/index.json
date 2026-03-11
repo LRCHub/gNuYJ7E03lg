@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ずっと好きだから",
+  "base_artist": "ねぐせ。",
+  "createdAt": "2026-03-11T06:34:41.428471Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずっと好きだから",
+      "artist": "ねぐせ。",
+      "has_synced": false,
+      "path": "select/pl_01_ずっと好きだから_ねぐせ。.txt"
+    }
+  ]
+}
